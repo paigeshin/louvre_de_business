@@ -17,3 +17,5 @@
 [DAU,  수익률 ](https://www.notion.so/DAU-081bab397d1b4e62a21650c8c1261f12)
 
 [매우 조심할 것, Side Job](https://www.notion.so/ff76e856626a4a6f8650e4f26271ec15)
+
+[개발 단톡방](https://www.notion.so/d6963818a10141b7bd96ac2353805d55)
