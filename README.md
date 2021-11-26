@@ -19,3 +19,9 @@
 [매우 조심할 것, Side Job](https://www.notion.so/ff76e856626a4a6f8650e4f26271ec15)
 
 [개발 단톡방](https://www.notion.so/d6963818a10141b7bd96ac2353805d55)
+
+[Chatting App Google Policy](https://www.notion.so/Chatting-App-Google-Policy-9b212f17b716445593958798166cbbca)
+
+[구글 홍보 인사이트 ](https://www.notion.so/cba4220ab76848ab88c36da67674ff7f)
+
+[구글 채팅앱 팔러시](https://www.notion.so/c0a345a1c355421b9c781d1ca5a21b48)
