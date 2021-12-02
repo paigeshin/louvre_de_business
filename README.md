@@ -6,6 +6,8 @@
 
 [Recreate entitlements](https://www.notion.so/Recreate-entitlements-416b532f71ff4146a86b1595de82f4c2)
 
+[앱 출시 후 featured에 올라갈 확률이 높은 기간](https://www.notion.so/featured-0e62a36cd33e4a9a8886318c15e7ec8e)
+
 # Android
 
 [Lost android key password](https://www.notion.so/Lost-android-key-password-12389f64f2b04b3d908767d83f210302)
