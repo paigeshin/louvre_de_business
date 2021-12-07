@@ -27,3 +27,5 @@
 [구글 홍보 인사이트 ](https://www.notion.so/cba4220ab76848ab88c36da67674ff7f)
 
 [구글 채팅앱 팔러시](https://www.notion.so/c0a345a1c355421b9c781d1ca5a21b48)
+
+[마케터는 쓰레기도 팔 수 있는 '신'이 아니다. 그저 '0000의 관리자.'일 뿐이다.](https://cafe.naver.com/redmmy4f/1059)
