@@ -31,3 +31,7 @@
 [마케터는 쓰레기도 팔 수 있는 '신'이 아니다. 그저 '0000의 관리자.'일 뿐이다.](https://cafe.naver.com/redmmy4f/1059)
 
 [휴업 신청하기](https://help.jobis.co/hc/ko/articles/115007610148-%ED%99%88%ED%83%9D%EC%8A%A4%EB%A1%9C-%ED%8F%90%EC%97%85-%ED%9C%B4%EC%97%85-%EC%8B%A0%EA%B3%A0%ED%95%98%EA%B8%B0)
+
+[프리랜서 임금체불 소송](https://m.blog.naver.com/hyouijun/221807685228)
+
+[총사업자증명서](https://1mancompany.tistory.com/2906)
