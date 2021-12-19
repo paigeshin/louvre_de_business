@@ -35,3 +35,5 @@
 [프리랜서 임금체불 소송](https://m.blog.naver.com/hyouijun/221807685228)
 
 [총사업자증명서](https://1mancompany.tistory.com/2906)
+
+[Company Analysis Template](https://drive.google.com/drive/folders/1eE1kjkSpIOFCV7DTiX18ag0jXNLq5XGC)
