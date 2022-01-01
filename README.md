@@ -64,6 +64,24 @@
 
 [Marketing Hypothesis 실험실 ](https://www.notion.so/Marketing-Hypothesis-2bae2777fb4342e49c668b64a590b731)
 
+# Growth
+
+[성공독서 28권 ](https://www.notion.so/28-43db4ae651774006a27252487e5d6cbc)
+
+[Bucket](https://www.notion.so/Bucket-d806f8567ffa4481a77555af3d683219)
+
+[Complete Workflow ](https://www.notion.so/Complete-Workflow-2807ab5c3677495fb3bdcc293935d7e9)
+
+[How to achieve goals ](https://www.notion.so/How-to-achieve-goals-02f89a2265df4376bb97673bbd0d5cc4)
+
+[Achievements 2022](https://www.notion.so/Achievements-2022-aae1726c03134bcfb86c0dafc61187c7)
+
+[Develop in one plan](https://www.notion.so/Develop-in-one-plan-3d53e557a2564a69a4f3254f2b982612)
+
+[Business all in one plan](https://www.notion.so/Business-all-in-one-plan-b470a2522fc94cdb98a127a15041860d)
+
+[Success Tracker ](https://www.notion.so/Success-Tracker-4c7d06ee793149328969d47ca310e61d)
+
 # 기타 정보
 
 [고용보험](https://socialspeaker.tistory.com/entry/%EC%8B%A4%EC%97%85%EA%B8%89%EC%97%AC-%EA%B3%A0%EC%9A%A9%EB%B3%B4%ED%97%98-%EA%B0%80%EC%9E%85%EA%B8%B0%EA%B0%84-%EB%82%A0%EC%A7%9C-%ED%99%95%EC%9D%B8-%EA%B3%84%EC%82%B0-%ED%95%A9%EC%82%B0-%EB%B0%A9%EB%B2%95-%EB%AF%B8%EA%B0%80%EC%9E%85%EC%9E%90-%EC%9C%A0%EA%B8%89%ED%9C%B4%EC%9D%BC-%EC%A3%BC%EB%A7%90)
