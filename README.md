@@ -101,3 +101,5 @@
 [총사업자증명서](https://1mancompany.tistory.com/2906)
 
 [Company Analysis Template](https://drive.google.com/drive/folders/1eE1kjkSpIOFCV7DTiX18ag0jXNLq5XGC)
+
+[프리랜서 세금신고 및 절세방법](https://m.blog.naver.com/luxuryjh72/221871107075)
