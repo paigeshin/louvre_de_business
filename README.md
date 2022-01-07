@@ -82,6 +82,10 @@
 
 [Success Tracker ](https://www.notion.so/Success-Tracker-4c7d06ee793149328969d47ca310e61d)
 
+# 수익률 
+
+[DAU, 수익률 ](https://www.notion.so/DAU-081bab397d1b4e62a21650c8c1261f12)
+
 # 기타 정보
 
 [고용보험](https://socialspeaker.tistory.com/entry/%EC%8B%A4%EC%97%85%EA%B8%89%EC%97%AC-%EA%B3%A0%EC%9A%A9%EB%B3%B4%ED%97%98-%EA%B0%80%EC%9E%85%EA%B8%B0%EA%B0%84-%EB%82%A0%EC%A7%9C-%ED%99%95%EC%9D%B8-%EA%B3%84%EC%82%B0-%ED%95%A9%EC%82%B0-%EB%B0%A9%EB%B2%95-%EB%AF%B8%EA%B0%80%EC%9E%85%EC%9E%90-%EC%9C%A0%EA%B8%89%ED%9C%B4%EC%9D%BC-%EC%A3%BC%EB%A7%90)
@@ -104,9 +108,11 @@
 
 [프리랜서 세금신고 및 절세방법](https://m.blog.naver.com/luxuryjh72/221871107075)
 
+[부가가치세 신고하는 법 - 개발자](https://riorio.tistory.com/94)
+
 # App Featured
 
 [Google](https://docs.google.com/forms/d/e/1FAIpQLSeopj_mjOrgWFiqI2B7ezHxykXO3vWzJWj3CqLzNjVmTrSgow/viewform)
 
 [Apple](https://developer.apple.com/contact/app-store/promote/)
-[DAU, 수익률 ](https://www.notion.so/DAU-081bab397d1b4e62a21650c8c1261f12)
+
