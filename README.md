@@ -103,3 +103,10 @@
 [Company Analysis Template](https://drive.google.com/drive/folders/1eE1kjkSpIOFCV7DTiX18ag0jXNLq5XGC)
 
 [프리랜서 세금신고 및 절세방법](https://m.blog.naver.com/luxuryjh72/221871107075)
+
+# App Featured
+
+[Google](https://docs.google.com/forms/d/e/1FAIpQLSeopj_mjOrgWFiqI2B7ezHxykXO3vWzJWj3CqLzNjVmTrSgow/viewform)
+
+[Apple](https://developer.apple.com/contact/app-store/promote/)
+[DAU, 수익률 ](https://www.notion.so/DAU-081bab397d1b4e62a21650c8c1261f12)
