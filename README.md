@@ -124,3 +124,8 @@
 
 [Apple](https://developer.apple.com/contact/app-store/promote/)
 
+# News 
+
+[애플 외부 결제 허용](https://news.v.daum.net/v/20220111173003903)
+
+[구글 외부 결제 허용](https://gametoc.hankyung.com/news/articleView.html?idxno=64054)
