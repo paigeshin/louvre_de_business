@@ -22,6 +22,8 @@
 
 # App Business
 
+[Improve App Store RATINGS with A & B Test](https://medium.com/gympass/how-we-improved-our-appstore-rating-with-firebase-a-b-test-and-remote-config-5a58f00095a4)
+
 [App Business Checklist](https://www.notion.so/App-Business-Checklist-744fe793859a477a843588a65b382d15)
 
 [App Marketing Metrics , funnel](https://www.notion.so/App-Marketing-Metrics-funnel-c62b94791dbf4b9394570b64f1f451e9)
@@ -143,3 +145,4 @@
 [애플 외부 결제 허용](https://news.v.daum.net/v/20220111173003903)
 
 [구글 외부 결제 허용](https://gametoc.hankyung.com/news/articleView.html?idxno=64054)
+
