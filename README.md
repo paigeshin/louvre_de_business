@@ -140,6 +140,8 @@
 
 [전액 현금 증여세](https://brunch.co.kr/@sisicallkorea/15)
 
+[유투브, 소액 현금 증여](https://www.youtube.com/watch?v=R8uoFJYu3KA)
+
 # App Featured
 
 [Google](https://docs.google.com/forms/d/e/1FAIpQLSeopj_mjOrgWFiqI2B7ezHxykXO3vWzJWj3CqLzNjVmTrSgow/viewform)
