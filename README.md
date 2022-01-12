@@ -64,6 +64,10 @@
 
 [Marketing Hypothesis 실험실 ](https://www.notion.so/Marketing-Hypothesis-2bae2777fb4342e49c668b64a590b731)
 
+# ASO
+
+[App Store Screenshots](https://medium.com/app-insights/app-store-optimization-aso-how-to-design-the-best-screenshots-479db785fb6d)
+
 # Content Marketing
 
 [2천억 부자가 하루에 64개씩 컨텐츠를 만들어 비지니스를 키우는 노하우를 공개합니다](https://www.youtube.com/watch?v=BA-2rlSfZ0g&t=400s)
