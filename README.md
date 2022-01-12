@@ -134,6 +134,12 @@
 
 [https://help.3o3.co.kr/hc/ko/articles/900005507406-2021-%EC%A2%85%ED%95%A9%EC%86%8C%EB%93%9D%EC%84%B8-%EC%8B%A0%EA%B3%A0%EA%B8%B0%EA%B0%84-%EB%94%B1-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%93%9C%EB%A6%BC-](https://help.3o3.co.kr/hc/ko/articles/900005507406-2021-%EC%A2%85%ED%95%A9%EC%86%8C%EB%93%9D%EC%84%B8-%EC%8B%A0%EA%B3%A0%EA%B8%B0%EA%B0%84-%EB%94%B1-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%93%9C%EB%A6%BC-)
 
+# Tips
+
+[증여세 팁](https://www.joongang.co.kr/article/24018407#home)
+
+[전액 현금 증여세](https://brunch.co.kr/@sisicallkorea/15)
+
 # App Featured
 
 [Google](https://docs.google.com/forms/d/e/1FAIpQLSeopj_mjOrgWFiqI2B7ezHxykXO3vWzJWj3CqLzNjVmTrSgow/viewform)
