@@ -142,6 +142,10 @@
 
 [유투브, 소액 현금 증여](https://www.youtube.com/watch?v=R8uoFJYu3KA)
 
+[증여금 신고 언제하지?](https://m.blog.naver.com/PostView.naver?blogId=woorawoo&logNo=222236956849&proxyReferer=https:%2F%2Fm.search.naver.com%2Fsearch.naver%3Fsm%3Dmtb_hty.top%26where%3Dm%26oquery%3D%25EC%25A6%259D%25EC%2597%25AC%25EC%2584%25B8%2B%25EC%258B%25A0%25EA%25B3%25A0%25ED%2595%2598%25EB%258A%2594%2B%25EB%25B0%25A9%25EB%25B2%2595%26tqi%3DhOJXelp0JWwss4Zbk8lssssss3o-191013%26query%3D%25EC%25A6%259D%25EC%2597%25AC%25EC%2584%25B8%2B%25EC%258B%25A0%25EA%25B3%25A0%2B%25EC%2596%25B8%25EC%25A0%259C%2B%25ED%2595%2598%25EB%2582%2598%25EC%259A%2594%2B%25EB%25A7%25A4%25EB%258B%25AC%2B%25EB%25B0%259B%25EC%259D%2584%2B%25EB%2595%258C%25EB%258A%2594)
+
+[증여세 면제한도, 신고기한](https://m.blog.naver.com/mal_geum/222296115780)
+
 # App Featured
 
 [Google](https://docs.google.com/forms/d/e/1FAIpQLSeopj_mjOrgWFiqI2B7ezHxykXO3vWzJWj3CqLzNjVmTrSgow/viewform)
