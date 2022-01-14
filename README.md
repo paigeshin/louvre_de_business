@@ -96,6 +96,10 @@
 
 [DAU, 수익률 ](https://www.notion.so/DAU-081bab397d1b4e62a21650c8c1261f12)
 
+# 절세
+
+[세금이 적은 나라](https://cmobile.g-enews.com/view.php?ud=201809071330013249c77c103522_1&ssk=2017011302325807148_1&md=20180907134029_S)
+
 # 기타 정보
 
 [고용보험](https://socialspeaker.tistory.com/entry/%EC%8B%A4%EC%97%85%EA%B8%89%EC%97%AC-%EA%B3%A0%EC%9A%A9%EB%B3%B4%ED%97%98-%EA%B0%80%EC%9E%85%EA%B8%B0%EA%B0%84-%EB%82%A0%EC%A7%9C-%ED%99%95%EC%9D%B8-%EA%B3%84%EC%82%B0-%ED%95%A9%EC%82%B0-%EB%B0%A9%EB%B2%95-%EB%AF%B8%EA%B0%80%EC%9E%85%EC%9E%90-%EC%9C%A0%EA%B8%89%ED%9C%B4%EC%9D%BC-%EC%A3%BC%EB%A7%90)
@@ -158,3 +162,14 @@
 
 [구글 외부 결제 허용](https://gametoc.hankyung.com/news/articleView.html?idxno=64054)
 
+# App Ad Network
+
+[https://www.monetizemore.com/best-app-ad-networks/](https://www.monetizemore.com/best-app-ad-networks/)
+
+[https://arpuinsider.com/mopub-admob-alternatives/](https://arpuinsider.com/mopub-admob-alternatives/)
+
+# App Store Connect
+
+[AppStore Connect Guide](https://developer.apple.com/support/app-store-connect/#//apple_ref/doc/uid/TP40011225-CH33-SW8)
+
+[AppStore Connect Tutorial](https://developer.apple.com/support/app-store-connect/#//apple_ref/doc/uid/TP40011225-CH33-SW8)
