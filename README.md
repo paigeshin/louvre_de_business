@@ -164,6 +164,8 @@
 
 # App Ad Network
 
+[Mediation Network](https://www.notion.so/Mediation-Network-d1cfc92f26c44b8bbb60e562a8277d3e)
+
 [https://www.monetizemore.com/best-app-ad-networks/](https://www.monetizemore.com/best-app-ad-networks/)
 
 [https://arpuinsider.com/mopub-admob-alternatives/](https://arpuinsider.com/mopub-admob-alternatives/)
@@ -173,3 +175,27 @@
 [AppStore Connect Guide](https://developer.apple.com/support/app-store-connect/#//apple_ref/doc/uid/TP40011225-CH33-SW8)
 
 [AppStore Connect Tutorial](https://developer.apple.com/support/app-store-connect/#//apple_ref/doc/uid/TP40011225-CH33-SW8)
+
+# Workflow
+
+[App Store Screenshots](https://medium.com/app-insights/app-store-optimization-aso-how-to-design-the-best-screenshots-479db785fb6d)
+
+[App Business, Find Great Idea](https://www.notion.so/App-Business-Find-Great-Idea-235bbec8b5244a71a578c3ab75cb04d0)
+
+[Find Great App Ideas, Interview](https://www.notion.so/Find-Great-App-Ideas-Interview-4ad9293f3869477a8a0255d361d1f649)
+
+[Simple ASO Tips ](https://www.notion.so/Simple-ASO-Tips-eb9287be2f604933af3503222dd14e17)
+
+[App Screenshots](https://www.notion.so/App-Screenshots-ca87d55b70cd403a915a654f8eed4487)
+
+[Mediation Network](https://www.notion.so/Mediation-Network-d1cfc92f26c44b8bbb60e562a8277d3e)
+
+[App Marketing Metrics ](https://www.notion.so/App-Marketing-Metrics-22fafdc4b36649c295255b66b9aad908)
+
+[Manual Marketing](https://www.notion.so/Manual-Marketing-09d1eeebdd914951926aec4e208ae704)
+
+[라이프해킹 스쿨 앱비지니스 강좌](https://www.notion.so/Lifehacking-School-App-Business-32fb91412af64cc890f5ebeb9cd542f0)
+
+[App Growth Loop Checklist](https://docs.google.com/spreadsheets/d/1C9LugSUQzNJKzApU8OZFfPOrWd-aK9VxNBCNCDvMTr0/edit#gid=0)
+
+[Why App Assets such as icon is so important?](https://medium.com/ironsource-levelup/aso-optimization-in-practice-how-a-game-i-made-over-the-weekend-amassed-2-million-downloads-32a7d13b093d)
