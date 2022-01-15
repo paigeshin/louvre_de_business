@@ -128,7 +128,7 @@
 
 # 행정 
 
-[Ultimate 부가가치세 신고]https://blog.naver.com/PostView.naver?blogId=lenaseo77&logNo=221783351576&redirect=Dlog&widgetTypeCall=true&directAccess=false
+[**Ultimate 부가가치세 신고**]https://blog.naver.com/PostView.naver?blogId=lenaseo77&logNo=221783351576&redirect=Dlog&widgetTypeCall=true&directAccess=false
 
 [부가가치세 신고하는 법 - 개발자](https://riorio.tistory.com/94)
 
