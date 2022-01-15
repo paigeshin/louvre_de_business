@@ -126,6 +126,8 @@
 
 # 행정 
 
+[Ultimate 부가가치세 신고]https://blog.naver.com/PostView.naver?blogId=lenaseo77&logNo=221783351576&redirect=Dlog&widgetTypeCall=true&directAccess=false
+
 [부가가치세 신고하는 법 - 개발자](https://riorio.tistory.com/94)
 
 [종합소득세 vs 부가가치세](https://help.3o3.co.kr/hc/ko/articles/900005149163--%EB%B6%80%EA%B0%80%EC%84%B8%EC%99%80-%EC%A2%85%EC%86%8C%EC%84%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-)
