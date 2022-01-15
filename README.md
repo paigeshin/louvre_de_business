@@ -98,6 +98,8 @@
 
 # 절세
 
+[**세금의 정석**](https://www.notion.so/7d0b5f3051904e23b1d2db8ace1d501e)
+
 [세금이 적은 나라](https://cmobile.g-enews.com/view.php?ud=201809071330013249c77c103522_1&ssk=2017011302325807148_1&md=20180907134029_S)
 
 # 기타 정보
@@ -201,3 +203,6 @@
 [App Growth Loop Checklist](https://docs.google.com/spreadsheets/d/1C9LugSUQzNJKzApU8OZFfPOrWd-aK9VxNBCNCDvMTr0/edit#gid=0)
 
 [Why App Assets such as icon is so important?](https://medium.com/ironsource-levelup/aso-optimization-in-practice-how-a-game-i-made-over-the-weekend-amassed-2-million-downloads-32a7d13b093d)
+
+
+
