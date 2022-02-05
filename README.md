@@ -207,3 +207,13 @@
 # OS Market Share
 
 [https://developer.apple.com/support/app-store/](https://developer.apple.com/support/app-store/)
+
+# Threshold
+
+### ios
+
+Payments are made **within 45 days of the last day of the month**.
+
+No, you can't change the payment threshold. It'll always be either $10 USD (if your currency is supported by Apple), or $150 USD (if it's not).
+
+[https://itunespartner.apple.com/books/articles/apple-books-payments-2748](https://itunespartner.apple.com/books/articles/apple-books-payments-2748)
