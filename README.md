@@ -204,5 +204,6 @@
 
 [Why App Assets such as icon is so important?](https://medium.com/ironsource-levelup/aso-optimization-in-practice-how-a-game-i-made-over-the-weekend-amassed-2-million-downloads-32a7d13b093d)
 
+# OS Market Share
 
-
+[https://developer.apple.com/support/app-store/](https://developer.apple.com/support/app-store/)
